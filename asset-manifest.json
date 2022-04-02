@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PizzaOrderCounter/static/css/main.cba4cb17.css",
+    "main.js": "/PizzaOrderCounter/static/js/main.d82e2b43.js",
+    "static/js/787.9ddbfb19.chunk.js": "/PizzaOrderCounter/static/js/787.9ddbfb19.chunk.js",
+    "static/media/large.jpg": "/PizzaOrderCounter/static/media/large.c3c0f0e113ed5faba6a8.jpg",
+    "static/media/c.png": "/PizzaOrderCounter/static/media/c.b1885d3055e60aca382e.png",
+    "static/media/logo.svg": "/PizzaOrderCounter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PizzaOrderCounter/index.html",
+    "main.cba4cb17.css.map": "/PizzaOrderCounter/static/css/main.cba4cb17.css.map",
+    "main.d82e2b43.js.map": "/PizzaOrderCounter/static/js/main.d82e2b43.js.map",
+    "787.9ddbfb19.chunk.js.map": "/PizzaOrderCounter/static/js/787.9ddbfb19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba4cb17.css",
+    "static/js/main.d82e2b43.js"
+  ]
+}
